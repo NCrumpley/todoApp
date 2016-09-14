@@ -2,6 +2,11 @@
 #Nate
 #WEEEE!
 # README
+<<<<<<< HEAD
+#Merge Conflict
+Nate Crumpley
+=======
+>>>>>>> d4769e00fd0d1db0fa750756c56d27ee08a3a784
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
